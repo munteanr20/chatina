@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "chatinabe",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "D:\\chatina_2\\chatina\\amplify\\backend\\api\\chatinabe\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authchatinabeafea821a"
+    }
+  }
+}

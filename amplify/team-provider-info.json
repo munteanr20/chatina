@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chatinabe-dev-163727-authRole",
+      "UnauthRoleArn": "arn:aws:iam::551749129651:role/amplify-chatinabe-dev-163727-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::551749129651:role/amplify-chatinabe-dev-163727-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-chatinabe-dev-163727-deployment",
+      "UnauthRoleName": "amplify-chatinabe-dev-163727-unauthRole",
+      "StackName": "amplify-chatinabe-dev-163727",
+      "StackId": "arn:aws:cloudformation:eu-central-1:551749129651:stack/amplify-chatinabe-dev-163727/57591540-747e-11ec-9c89-0a316e131472",
+      "AmplifyAppId": "d3f2fq9t3vi4xs"
+    },
+    "categories": {
+      "auth": {
+        "chatinabeafea821a": {}
+      }
+    }
+  }
+}
